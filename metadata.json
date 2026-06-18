@@ -1,0 +1,6 @@
+{
+  "name": "AquaControl IoT",
+  "description": "Real-time water distribution, quality monitoring, flow analytics, and leakage tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
